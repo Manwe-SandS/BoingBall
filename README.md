@@ -28,4 +28,4 @@ Load from disk
 7. [Burn](https://etcher.balena.io) HDD image to Compact Flash or IDE HDD.
 8. Watch the intro on the real hardware.
 
-Compile with [PDPy11](https://github.com/pdpy11/pdpy11)
+Compile the source code with [PDPy11](https://github.com/pdpy11/pdpy11)
