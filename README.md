@@ -4,6 +4,8 @@ Wait 11 seconds after start. Moscow, Russia, 2020 A.D.
 
 Download [BIN](https://github.com/Manwe-SandS/BoingBall/releases/download/PDP11/BoingBall.bin) or [WAV](https://github.com/Manwe-SandS/BoingBall/releases/download/PDP11/BoingBall.wav)
 
+Leave your comment and vote for this intro on the demoscene portal [pouet.net](https://www.pouet.net/prod.php?which=87736)
+
 ![BoingBall](https://github.com/user-attachments/assets/a5adb3b5-6721-48a6-8bc2-7039b3b73665)
 
 Load from tape
@@ -19,13 +21,13 @@ Load from tape
 
 
 Load from disk
-1. Download BKDE (BK Disk Explorer) from gid.pdp-11.ru
+1. Download [BKDE](https://gid.pdp-11.ru/f/BKDE.7z) (BK Disk Explorer) from gid.pdp-11.ru
 2. Open any BK floppy disk image with BKDE.
 3. Drag and drop [BoingBall.bin](https://github.com/Manwe-SandS/BoingBall/releases/download/PDP11/BoingBall.bin) into BKDE window.
-4. Close BKDE. Use that floppy disk image with emulator.
+4. Close BKDE. Use that floppy disk image with [emulator](https://gid.pdp-11.ru/bkemu.html).
 5. In emulator, copy BoingBall from the floppy to HDD image.
 6. Close the emulators because it suxx on this intro.
-7. Burn HDD image to Compact Flash or IDE HDD.
+7. [Burn](https://etcher.balena.io) HDD image to Compact Flash or IDE HDD.
 8. Watch the intro on the real hardware.
 
 Compile with [PDPy11](https://github.com/pdpy11/pdpy11)
