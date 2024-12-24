@@ -2,6 +2,8 @@
 
 Wait 11 seconds after start. Moscow, Russia, 2020 A.D.
 
+[Download bin](https://github.com/Manwe-SandS/BoingBall/releases/download/PDP11/BoingBall.bin)
+
 
 
 Load from tape
