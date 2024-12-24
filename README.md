@@ -27,3 +27,5 @@ Load from disk
 6. Close the emulators because it suxx on this intro.
 7. Burn HDD image to Compact Flash or IDE HDD.
 8. Watch the intro on the real hardware.
+
+Compile with [PDPy11](https://github.com/pdpy11/pdpy11)
