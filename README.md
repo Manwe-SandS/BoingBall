@@ -4,7 +4,7 @@ Wait 11 seconds after start. Moscow, Russia, 2020 A.D.
 
 [Download bin](https://github.com/Manwe-SandS/BoingBall/releases/download/PDP11/BoingBall.bin)
 
-
+![BoingBall](https://github.com/user-attachments/assets/a5adb3b5-6721-48a6-8bc2-7039b3b73665)
 
 Load from tape
 1. Disconnect HDD controller from your BK 0011M.
