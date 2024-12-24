@@ -1,4 +1,4 @@
-"Boing Ball" – 510-byte intro for BK0011M Soviet computer. Made by Manwe / Strogino PC. Moscow, Russia, 2020 A.D.
+"Boing Ball" – 510-byte intro for BK0011M Soviet computer. Made by Manwe / Strogino PC. Moscow, Russia, 2020.
 
 Wait 11 seconds after start.
 
