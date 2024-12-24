@@ -10,8 +10,7 @@ PDP-11 source code included.
 
 
 
-##Load from tape
-
+Load from tape
 1. Disconnect HDD controller from your BK 0011M.
 2. Connect audio cable to load from a sound source.
 3. Turn on your computer, press quickly and hold Space key.
@@ -23,8 +22,7 @@ PDP-11 source code included.
 9. Watch the progress bar and then the intro itself.
 
 
-##Load from disk
-
+Load from disk
 1. Download BKDE (BK Disk Explorer) from gid.pdp-11.ru
 2. Open any BK floppy disk image with BKDE.
 3. Drag and drop BoingBall.bin into BKDE window.
