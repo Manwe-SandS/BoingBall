@@ -1,6 +1,6 @@
-"Boing Ball" – 510-byte intro for BK0011M Soviet computer. Made by Manwe / Strogino PC.
+"Boing Ball" – 510-byte intro for BK0011M Soviet computer. Made by Manwe / Strogino PC. Moscow, Russia, 2020 A.D.
 
-Wait 11 seconds after start. Moscow, Russia, 2020 A.D.
+Wait 11 seconds after start.
 
 Download [BIN](https://github.com/Manwe-SandS/BoingBall/releases/download/PDP11/BoingBall.bin) or [WAV](https://github.com/Manwe-SandS/BoingBall/releases/download/PDP11/BoingBall.wav) to run on the real hardware. Watch on [YouTube](https://www.youtube.com/watch?v=4oOuhyoB1hw) if you have no real hardware or [FPGA simulator](https://github.com/MiSTer-devel/BK0011M_MiSTer/tree/master).
 
