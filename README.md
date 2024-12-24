@@ -1,12 +1,7 @@
-"Boing Ball" 510 bytes intro
-for BK0011M Soviet computer.
-
+"Boing Ball" 510 bytes intro for BK0011M Soviet computer.
 Made by Manwe / Strogino PC.
-
 Wait 11 seconds after start.
-PDP-11 source code included.
-
- Moscow, Russia, 2020 A.D.
+Moscow, Russia, 2020 A.D.
 
 
 
